@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/pulkit-eds-demo/:/"
+    "/content/pulkit-eds-demo/:/",
+    "/content/pulkit-eds-demo/configuration:/.helix/config.json",
+    "/content/pulkit-eds-demo/metadata:/metadata.json"
   ],
   "includes": [
     "/content/pulkit-eds-demo/"
