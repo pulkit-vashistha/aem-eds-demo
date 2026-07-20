@@ -1,7 +1,6 @@
 {
   "mappings": [
-    "/content/pulkit-eds-demo/:/",
-    "/content/pulkit-eds-demo/en/:/en/"
+    "/content/pulkit-eds-demo/:/"
   ],
   "includes": [
     "/content/pulkit-eds-demo/"
