@@ -1,0 +1,9 @@
+{
+  "mappings": [
+    "/content/pulkit-eds-demo/:/",
+    "/content/pulkit-eds-demo/en/:/en/"
+  ],
+  "includes": [
+    "/content/pulkit-eds-demo/"
+  ]
+}
