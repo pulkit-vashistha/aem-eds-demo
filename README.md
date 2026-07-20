@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-eds-demo--pulkit-vashistha.aem.page/
-- Live: https://main--aem-eds-demo--pulkit-vashistha.aem.live/
+- Preview: https://main--{repo}--{owner}.aem.page/
+- Live: https://main--{repo}--{owner}.aem.live/
 
 ## Documentation
 

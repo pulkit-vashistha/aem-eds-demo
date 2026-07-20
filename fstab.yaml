@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p33904-e822614.adobeaemcloud.com/bin/franklin.delivery/pulkit-vashistha/aem-eds-demo/main"
+    url: "https://author-p33904-e822614.adobeaemcloud.com//bin/franklin.delivery/pulkit-vashistha/aem-eds-demo/main"
     type: "markup"
     suffix: ".html"

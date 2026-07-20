@@ -1,8 +1,5 @@
 {
   "project": "AEM XWalk Boilerplate",
-  "owner": "pulkit-vashistha",
-  "repo": "aem-eds-demo",
-  "host": "main--aem-eds-demo--pulkit-vashistha.aem.live",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
