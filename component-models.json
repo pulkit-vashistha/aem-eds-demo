@@ -142,6 +142,21 @@
     ]
   },
   {
+    "id": "accordion",
+    "fields": [
+      {
+        "component": "text",
+        "name": "label",
+        "label": "Label"
+      },
+      {
+        "component": "richtext",
+        "name": "content",
+        "label": "Content"
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {

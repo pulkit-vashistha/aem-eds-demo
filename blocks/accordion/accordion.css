@@ -1,0 +1,42 @@
+.accordion {
+  width: 100%;
+}
+
+.accordion .accordion-item {
+  border-bottom: 1px solid var(--dark-color);
+}
+
+.accordion .accordion-item:last-of-type {
+  border-bottom: none;
+}
+
+.accordion .accordion-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  background-color: var(--background-color);
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.accordion .accordion-button:hover {
+  background-color: var(--highlight-background-color);
+}
+
+.accordion .accordion-button::after {
+  content: '+';
+  font-size: 1.5rem;
+  transition: transform 0.2s;
+}
+
+.accordion .accordion-button[aria-expanded="true"]::after {
+  transform: rotate(45deg);
+}
+
+.accordion .accordion-content {
+  padding: 1rem;
+  background-color: var(--background-color);
+}
